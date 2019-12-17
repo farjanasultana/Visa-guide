@@ -1,0 +1,27 @@
+body{
+	
+}
+/*header start*/
+.bg_color{background-color: #89AB2A;}
+.menu ul li{font-size: 25px;padding-left: 15px;transition: .5s;}
+.menu ul li a:hover{color: #0013DE !important;}
+.nav-link{color: #ffffff !important;}
+/*header end*/
+/*description start*/
+.description{
+	background-image: url(../images/plane.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	min-height: 600px;
+}
+.c_white{color: #FFC300;}
+.mt{
+	margin-top: 100px;
+}
+.c_pink{color: #DBFF3D;}
+/*description end*/
+/*footer start*/
+footer{
+	background-color: #89AB2A;
+}
